@@ -1,5 +1,3 @@
-AdventureWorks Sales Insights
-
 *Tech Stack*: SQL, Power BI
 
 * Developed dashboards showing territory-wise and subcategory sales.
